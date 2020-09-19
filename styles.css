@@ -167,6 +167,24 @@ a.social:hover {
   clear: both;
 }
 
+/* .otherImage {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 30%;
+  border: 3px inset #7f62d4;
+  transition: all .5s;
+} */
+
+.otherImage {
+width: 80%;
+height:6.25 em;
+margin-top: 10px;
+opacity: 50%; 
+  
+}
+
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
@@ -204,4 +222,5 @@ a.social:hover {
   }
 
 }
+
 
