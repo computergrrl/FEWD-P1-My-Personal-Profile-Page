@@ -70,11 +70,15 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 30%;
-  border: 3px inset rgb(92, 41, 41);
+  border: 3px solid rgb(92, 41, 41);
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  /* transform: scale(1.2) rotate(5deg); */
+  transform: scale(1.2);
+  border-color: rgb(167, 2, 103);
+  border-radius: 50%;
+  border-width: 4px;
 }
 .tag {
   background-color: #efefef;
@@ -167,14 +171,6 @@ a.social:hover {
   clear: both;
 }
 
-/* .otherImage {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 30%;
-  border: 3px inset #7f62d4;
-  transition: all .5s;
-} */
 
 .otherImage {
 width: 80%;
