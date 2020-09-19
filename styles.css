@@ -69,8 +69,8 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 30%;
+  border: 3px inset rgb(92, 41, 41);
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -86,7 +86,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: green;
 }
 .card {
   margin: 30px;
