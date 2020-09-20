@@ -1,5 +1,9 @@
 # My Personal Profile Page
  Project 1 of the FEWD Techdegree - My Personal Profile Page
+ 
+ ## Technologies Used
+* CSS
+* HTML
 
 ## Features
 * [x] Personalized profile & background images
@@ -17,8 +21,5 @@
 ## Support
 Contact: amber.stevens@teamtreehouse.com
 
-## Technologies Used
-* CSS
-* HTML
 
 _Copyright (c) 2020 Amber Stevens_
